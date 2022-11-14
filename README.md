@@ -16,19 +16,9 @@
 
 <!-- <image src="http://github-readme-streak-stats.herokuapp.com?user=pw0rld&theme=synthwave" alt="pw0rld's GitHub Streak, source: https://git.io/streak-stats" style="width: 100%;"> -->
 
-## Selected Projects
-
-- blog relative: https://github.com/m-archive-blog
-- wechat relative: https://github.com/m-archive-wechat
-- images relative: https://github.com/m-archive-images
-- data crawl relative: https://github.com/m-archive-spiders
-- plugins relative: https://github.com/m-archive-plugins
-- private commercial projects relative: https://github.com/m-archive-commercial
-- competitions relative: https://github.com/m-archive-competitions
-
 ## History
 
-[![MarkShawn's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pw0rld&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pw0rld's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pw0rld&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 2022-11-12
 
