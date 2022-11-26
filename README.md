@@ -3,7 +3,7 @@
 
 ## Intro
 
-:sunny: Hi, I am **Pw0rld(彭维), A FullStack Programmer** (seeking for a *Challenging & Competitive* work opportunity), currently bases on **Beijing, China**.
+:sunny: Hi, I am **Pw0rld(彭维), An PHD candidate in Computer Science** (enthusiastic about research on Software and System ), currently bases on **ShenZhen Sustech, China**.
 
 - GitHub: https://github.com/pw0rld
 - Blog: https://pw0rld.github.io/
