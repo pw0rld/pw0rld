@@ -16,9 +16,6 @@
 
 <!-- <image src="http://github-readme-streak-stats.herokuapp.com?user=pw0rld&theme=synthwave" alt="pw0rld's GitHub Streak, source: https://git.io/streak-stats" style="width: 100%;"> -->
 
-## History
-
-[![Pw0rld's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pw0rld&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 2022-11-12
 
