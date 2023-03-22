@@ -3,7 +3,7 @@
 
 ## Intro
 
-:sunny: Hi, I am **Pw0rld(彭维), An PHD candidate in Computer Science** (enthusiastic about research on Software and System ), currently bases on **ShenZhen Sustech, China**.
+:sunny: Hi, I am **Wei Peng(彭维), and I am a PhD student in Computer Science at Singapore Management University (SMU) under the guidance of Professor [Xie Xiaofei](https://xiaofeixie.bitbucket.io/).** (My research interests are focused the security on software and systems.)
 
 - GitHub: https://github.com/pw0rld
 - Blog: https://pw0rld.github.io/
