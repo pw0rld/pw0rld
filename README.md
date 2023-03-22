@@ -15,12 +15,3 @@
 [![MarkShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=pw0rld&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <image src="http://github-readme-streak-stats.herokuapp.com?user=pw0rld&theme=synthwave" alt="pw0rld's GitHub Streak, source: https://git.io/streak-stats" style="width: 100%;"> -->
-
-
-### 2022-11-12
-
-- use a profile readme ([repo](https://github.com/pw0rld/pw0rld), [instruction](https://docs.github.com/cn/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)) to introduce myself, and include all the submodules
-
-### 2022-08-08
-
-- changed all the sub-projects into submodules
